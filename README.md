@@ -1,7 +1,7 @@
 Welcome to my GitHub!!
 
-- 👋 Hi, I’m @KumaGuren
-- 👀 I’m interested in ... Video Games, Music, and All Things Technology!
+- 👋 Hi, I’m Ibrahim Salawu
+- 👀 I’m interested in Computer Programming, Music, and All Things Technology!
 - 🌱 I’m currently learning Computer Science and Software Engineering, but in my own time I'm learning Python and C++
 - 💞️ I’m looking to collaborate on any group project!!
 - 😄 Pronouns: He/Him
